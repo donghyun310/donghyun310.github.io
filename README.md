@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### Donghyun Kim's hompage
 
-You can use the [editor on GitHub](https://github.com/donghyun310/donghyun310.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a postdoc at AORC. I am interested in combinatorics of orthogonal polynomials, the ASEP, Schubert polynomials and Ehrhart theory.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: hyun923010@g.skku.edu
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
+-Techniques in equivariant Ehrhart theory (with Sophia Elia, Mariel Supina), [arXiv:2205.05900]
+(https://arxiv.org/abs/2205.05900)
+-Negative moments or orthogonal polynomials (with Jihyeug Jang, Jang Soo Kim, U-keun Song, Minho Song), [arXiv:2201,11344]
+(https://arxiv.org/abs/2201.11344)
+-Schubert polynomials, the inhomogeneous TASEP, and evil-avoiding permutations (with Lauren Williams), International Mathematical Research Notices (accepted)
+-Combinatorial formulas for the coefficients of the Al-Salam-Chihara polynomials, [arXiv:2002.01518]
+(https://arxiv.org/abs/2002.01518)
+-A combinatorial formula for the h^{*}-vector of the hypersimplex, J.Combin. Theorey Ser. A, 173 (2020)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donghyun310/donghyun310.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Teaching
