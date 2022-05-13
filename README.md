@@ -1,5 +1,5 @@
 ### Donghyun Kim's hompage
-
+![photo](donghyunkimphoto.jpeg)
 I'm a postdoc at AORC. I am interested in combinatorics of orthogonal polynomials, the ASEP, Schubert polynomials and Ehrhart theory.
 
 E-mail: hyun923010@g.skku.edu
