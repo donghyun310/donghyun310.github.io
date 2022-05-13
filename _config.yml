@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+title: Donghyun Kim's hompage
+url: 'http://u-keun.github.io'
+baseurl:'/'
+
+author:
+name: Donghyun Kim
+email: hyun923010@g.skku.edu 
+github_username:donghyun310
